@@ -178,3 +178,16 @@ The three algorithms are evaluated using the following performance metrics:
 AdaBoost, Gradient Boosting, and XGBoost are ensemble learning algorithms that combine multiple weak learners to create a stronger model.
 
 This practical helps understand their working processes and compare their performance using different evaluation metrics on the Iris dataset.
+
+git init
+git add .
+git commit -m "commit msg"
+git branch -M main
+git remote add origin 'profile-link'
+git push -u origin main
+
+
+-----------------------------
+git add filename
+git commit -m "commit msg"
+git push origin main
