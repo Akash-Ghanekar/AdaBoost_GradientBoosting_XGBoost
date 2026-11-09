@@ -1,6 +1,6 @@
 # AdaBoost, Gradient Boosting & XGBoost
 
-## Overview
+## Overview of the project
 This project demonstrates and compares three popular boosting algorithms used in Machine Learning:
 
 - AdaBoost
