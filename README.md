@@ -178,6 +178,15 @@ The three algorithms are evaluated using the following performance metrics:
 AdaBoost, Gradient Boosting, and XGBoost are ensemble learning algorithms that combine multiple weak learners to create a stronger model.
 
 This practical helps understand their working processes and compare their performance using different evaluation metrics on the Iris dataset.
+9. Future Scope
+The future scope of AdaBoost, Gradient Boosting, and XGBoost includes:
+1. Large Dataset Handling: These algorithms can be applied to larger and more complex datasets for better predictions.
+2. Hyperparameter Tuning: Techniques like GridSearchCV and RandomizedSearchCV can be used to optimize model performance.
+3. Real-World Applications: Boosting algorithms can be used in fraud detection, disease prediction, customer classification, and spam detection.
+4. Advanced Feature Engineering: Feature selection and feature extraction can improve prediction accuracy.
+5. Deep Learning Integration: Boosting algorithms can be combined with other machine learning and deep learning techniques.
+6. Performance Optimization: Further improvements can be achieved through parallel processing and optimized training techniques.
+7. Model Comparison: These algorithms can be tested on different datasets to understand their accuracy, efficiency, and generalization capabilities.
 
 git init
 git add .
